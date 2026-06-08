@@ -1,16 +1,65 @@
-## Hi there 👋
+# 👋 Hi, I'm Kalsoom
 
-<!--
-**kalsoomlachi99-spec/kalsoomlachi99-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Beginner C++ Developer
+🎯 Passionate about programming and problem solving
+📚 Learning software development step by step through projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+* 🌱 Currently learning **C++ programming**
+* 🚀 Building beginner projects to improve my skills
+* 💡 Interested in software development and logic building
+* 🎯 Goal: Become a skilled software developer
+
+---
+
+## 💻 Projects I've Built
+
+### 🎮 Quiz Game
+
+A console-based quiz game with multiple-choice questions, score tracking, and input validation.
+
+### 🔢 Number Guessing Game
+
+A game where the user guesses a randomly generated number between 1 and 100 with limited attempts.
+
+### 💳 ATM System
+
+A menu-driven ATM simulation that allows users to:
+
+* Check balance
+* Deposit money
+* Withdraw money
+* Exit system safely
+
+---
+
+## 🧠 Skills
+
+* C++ (Beginner)
+* Problem Solving
+* Console Applications
+* Git & GitHub Basics
+* Logical Thinking
+
+---
+
+## 📈 Currently Learning
+
+* Functions in C++
+* Arrays
+* File Handling
+* Object-Oriented Programming (OOP)
+
+---
+
+## 📫 Contact Me
+
+📧 Email: [kalsoomlachi99@gmail.com](mailto:kalsoomlachi99@gmail.com)
+🌐 GitHub: https://github.com/kalsoomlachi99-spec
+
+---
+
+⭐ *“Learning by building real projects, one step at a time.”*
